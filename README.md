@@ -1,5 +1,4 @@
-# AOC-2021 <br />
-## Solutions to AOC 2021 (JAVA) <br />
+# AOC-2021 <br /> Solutions to AOC 2021 (JAVA) <br />
 
 ## Some notes: <br />
 Indenting may be weird because I'm new to using Github, sorry! <br />
