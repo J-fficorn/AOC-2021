@@ -1,11 +1,11 @@
-# AOC-2021
-Solutions to AOC 2021 (JAVA) <br />
+# AOC-2021 <br />
+## Solutions to AOC 2021 (JAVA) <br />
 
-Some notes: <br />
+## Some notes: <br />
 Indenting may be weird because I'm new to using Github, sorry! <br />
 Also, dayx/partx -.java files may need renaming of class names as they do not match the file names. <br />
 
-Favourite days: <br />
+## Favourite days: <br />
 8:  <br />
 11: <br />
 13: <br />
