@@ -17,7 +17,7 @@ Also, dayx/partx -.java files may need renaming of class names as they do not ma
 <br />
 18: I was stuck on day 18 for a whole day, where I tried to implement an over-complicated tree. In the end, I resorted to manipulating a [LinkedList](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html) after converting the [string](https://adventofcode.com/2021/day/18) into an integer list. It's incredibly satisfying to watch the numbers pop as the operations run.<br />
 <br />
-22: My notebook is filled with sketches of [3D cuboids](https://adventofcode.com/2021/day/22) now (thanks AOC). In the end, I remembered my lessons from discrete math about set intersection and union, so I set intersected cuboids as new cubes with volumes of -1. This way, having two overlapping cuboids with intersection would be calculated in this way: (3 * 3 * 3) + (3 * 3 * 3) - (2 * 2 * 2) = 27 + 27 - 8 = 46. <br />
+22: My notebook is filled with sketches of [3D cuboids](https://adventofcode.com/2021/day/22) now (thanks AOC). In the end, I remembered my lessons from discrete math about set intersection and union, so I set intersected cuboids as new cubes with volumes of -1. This way, having two overlapping cuboids with intersection would be calculated in this way: <br />(3 * 3 * 3) + (3 * 3 * 3) - (2 * 2 * 2) = 27 + 27 - 8 = 46. <br />
 <br />
 <br />
 ## Conclusion <br/>
